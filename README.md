@@ -6,7 +6,7 @@
 ## react_native_custom_font 설명
 react_native_custom_font 저장소(Repository)는 RN(React Native) 프로젝트에 커스텀 폰트를 적용하고 사용하는 간단한 예제입니다. 이 저장소는 아래에 폰트를 적용하였습니다.
 
-- Dancing Script: [https://fonts.google.com/specimen/Dancing+Script](https://fonts.google.com/specimen/Dancing+Script){:rel="nofollow noreferrer" target="_blank"}
+- Dancing Script: [https://fonts.google.com/specimen/Dancing+Script](https://fonts.google.com/specimen/Dancing+Script)
 
 이 저장소(Repository)를 만들면서 작성한 블로그가 있습니다. 자세한 내용은 아래에 블로그를 참고하시기 바랍니다.
 
@@ -42,7 +42,7 @@ npm run android
 ## react_native_custom_font説明
 react_native_custom_fontレポジトリ(Repository)はRN(React Native)プロジェクトにカスタムフォントを適用して使う簡単な例です。このリポジトリは下記のフォントを使っています。
 
-- Dancing Script: [https://fonts.google.com/specimen/Dancing+Script](https://fonts.google.com/specimen/Dancing+Script){:rel="nofollow noreferrer" target="_blank"}
+- Dancing Script: [https://fonts.google.com/specimen/Dancing+Script](https://fonts.google.com/specimen/Dancing+Script)
 
 このレポジトリ(Repository)を作る時、作成したブログがあります。詳しく内容は下記のブログを参考してください。
 
@@ -78,7 +78,7 @@ npm run android
 ## how to use react_native_custom_font
 this react_native_custom_font repository is the simple example about how to apply custom font and how to use custom font on RN(React Native). this repository uses the font below.
 
-- Dancing Script: [https://fonts.google.com/specimen/Dancing+Script](https://fonts.google.com/specimen/Dancing+Script){:rel="nofollow noreferrer" target="_blank"}
+- Dancing Script: [https://fonts.google.com/specimen/Dancing+Script](https://fonts.google.com/specimen/Dancing+Script)
 
 we have the blog about this repository. if you want to know more details, see the blog below.
 
