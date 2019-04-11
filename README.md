@@ -82,7 +82,7 @@ this react_native_custom_font repository is the simple example about how to appl
 
 we have the blog about this repository. if you want to know more details, see the blog below.
 
-- Apply custom font to RN(Reacct Native): [https://dev-yakuza.github.io/ko/react-native/react-native-custom-font/](https://dev-yakuza.github.io/ko/react-native/react-native-custom-font/)
+- Apply custom font to RN(Reacct Native): [https://dev-yakuza.github.io/en/react-native/react-native-custom-font/](https://dev-yakuza.github.io/en/react-native/react-native-custom-font/)
 
 we've developed this repository with RN(React Native) applied ```typescript``` and ```styled-components```. if you want to know detail about how to apply ```typescript``` and ```styled-components```, see our other blogs.
 
