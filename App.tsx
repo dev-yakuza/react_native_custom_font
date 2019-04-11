@@ -19,13 +19,13 @@ const Welcome = Styled.Text`
   font-size: 20px;
   text-align: center;
   margin: 10px;
-  font-family: DancingScript-Bold; // Add here
+  font-family: 'DancingScript-Bold'; // <<<<<<<<<<<<< Add here
 `;
 const Instructions = Styled.Text`
   text-align: center;
   color: #333333;
   margin-bottom: 5px;
-  font-family: DancingScript-Regular; // Add here
+  font-family: 'DancingScript-Regular'; // <<<<<<<<<<<<< Add here
 `;
 
 interface Props {}
